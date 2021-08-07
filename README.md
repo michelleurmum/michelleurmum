@@ -1,2 +1,1 @@
-lol
-urmum
+print("your mom")
