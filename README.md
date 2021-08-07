@@ -1,1 +1,1 @@
-print("your mom")
+HAI
